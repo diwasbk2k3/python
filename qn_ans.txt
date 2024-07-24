@@ -1,0 +1,49 @@
+Q.N.1 Difference Between Compiler & Intrepreter
+>>>Compiler:
+    It translates whole block of code at a time.
+    It is faster than intrepreter.
+    It generates intermediate machine code.
+    It is more efficient and consumes less time.
+
+>>>Intrepreter
+    It translates the code line by line.
+    It is slower than compiler.
+    It doesn't produce any intermediate machine code.
+    It is less efficient and consumes more time.
+
+Q.N.2 Difference between High Level and Low Level language.
+>>> High Level Language:
+    High Level Language are closer to human languages and are efficient to understand.
+    They are more abstracted from hardware and are designed to be platform independent.
+    Examples: Python, C, C++, Java etc 
+    Code written in low level languages are easier to understand but...
+    it needs to be converted into machine code with compiler or intrepreter.
+>>> Low Level Language:
+    Low Level Languages are closer to machine code and are more closely tied with hardware architecture.
+    They provide direct control flow over the hardware architecture.
+    Example includes Assemble language and machine code etc  
+    Code written in low level language are complex to understandas they directly interact with memory and CPU register.
+
+Q.N.3 Garbage Collection in Python 
+>>> Garbage collection in python refers to the automatatic memory management by python intrepreter. Python deletes
+    unnecessary object automatically to free up the memory space which is termed as Garbage collection.
+    It it the process of reclaiming the memory object that is no longer in used by the program.
+    Garbage collection in python runs automatically in the background which helps developers to avoid memory leaks and 
+    write code efficiently without worrying about the memory management.
+
+Q.N.4 Write the symbolic representation of BITWISE OR, XOR, NOT, Right, and left.
+    BITWISE OR: |
+    BITWISE XOR: ^
+    BITWISE NOT: ~
+    BITWISE Right: >>
+    BITWISE Left:  <<
+
+Q.N. 5 Difference Between Run time error and syntax error.
+>>> Run time error:
+        Run time error is caught while something unexpected occurs while running the code.
+        It is detected while running the program.
+
+>>> Syntxa error:
+        Syntax error is caught when the rule or syntax of the program is break or not followed.
+        It is detected before running the program.
+
